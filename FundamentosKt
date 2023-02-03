@@ -1,1 +1,22 @@
 
+
+fun main() {
+   
+    println("ola me chamo jeferson caminhoes")
+    println("oi...jeferson caminhoes")
+    println("nome estranho o seu ne ?")
+    println("serio ?  e qual seria o teu nome")
+    println("sei nao.")
+    println("como assim ? sei nao ?")
+    println(" voce nao sabe seu propio nome ?")
+    println("sei nao.")
+    println("so tem pessoa maluca nesse mundo")
+    println("tchau")
+    println("mas meu nome e...")
+    println("Sei nao !")
+    println("o que sua mae tinha na cabeça quando te deu esse nome ?")
+    println("sei nao.")
+    
+    
+    
+}
