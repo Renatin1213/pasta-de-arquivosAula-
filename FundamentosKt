@@ -20,3 +20,43 @@ fun main() {
     
     
 }
+//---------------------------------------------------------------------------------------------------------//
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+    println("Hello, world!!!")
+    
+//Variaveis
+//
+//Var - mutavel - seu valor pode ser alterado 
+//val - nao mutavel - nao e possivel alterar seu valor 
+//
+//Tipos de variaveis
+//
+//boolean - verdadeiro ou falso
+//string - qualquer texto de qualquer tamanho dentro de "" --> Ex: "pizza"
+//Char - APENAS um caractere dentro de ''   --> Ex: 'a'
+//int - numeros inteiros --> Ex; 6
+//double - numeros decimais (de forma arrendondada)  --> 71.23
+//Long - Numeros reais (de forma longa)  --> Ex: 50000000000000000000000
+//float - Numeros decimais (de formas definitiva )  -->  71.000000002853716
+//
+//
+//
+//Estrutura de uma variavel 
+//
+//
+//var nomedela = "valor"
+//var nomedela:  String
+ 
+//Concatenaçao
+var messiGoldenBall = 7
+ 
+println("o messi ja ganhou " + messiGoldenBall + "Vezes a bola de ouro" )
+  println("o messi ja ganhou $messiGoldenBall vezes a bola de ouro")
+          
+}
+    
+    
