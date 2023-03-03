@@ -33,6 +33,127 @@ fun main() {
 //Var - mutavel - seu valor pode ser alterado 
 //val - nao mutavel - nao e possivel alterar seu valor 
 //
+/**
+) {
+
+// aula 2
+    //Operadores Relacionais
+    //
+    //Sao sinais que auxiliam em comparaçoes entre valores
+    //
+    //
+    //
+    //= -->para definir valores
+    //==--> comparaçao de igualdade
+    //= --> diferença 
+    // > -> maior que...
+    // < -> menor que ...
+    //
+    // Operaçoes matematicos 
+    // + -> adiçao 
+    // - -> subtraçao 
+    // * -> multiplicaçao 
+    // / -> divisao
+    // % -> modulo - o resto de uma divisao 
+    // ++ -> adiciona 1 a um valor 
+    // -- -> subtrai 1 de um valor 
+     
+     
+    // Condiçoes 
+    // if..else -> se...senao
+    // 
+    // estrutura do if..else simples
+    // 
+    //if(condiçao){açao a ser executada}
+    // 
+    // 
+    /*
+   var classificado = "real maadrid"
+    
+    if (classificado == "real madrid"){
+    
+    println("Real madrid classificado para final, hala madrid!!") 
+    }else{
+        println("Barcelona classificado para final!!")
+    }
+    */
+    //if...else composto
+    //
+    //estrutura:
+    //if(condiçao){
+    //açao
+    //}else if (condiçao){
+    //açao
+    //}else if (condiçao){
+    //açao
+    //}else{
+    //açao
+    //}
+    //
+    //
+    //
+    //
+        var vidas = 5 
+    
+   
+    if (vidas >= 5){
+        println("Voce esta excelente!! que vida boa ")
+    }else if (vidas == 4){
+        println("Voce esta bem toma cuidado ")
+    }else if (vidas == 3){
+        println("ta afim de morrer ?")
+    }else if (vidas == 2){
+        println(" iiiii vai de F ")
+    }else if (vidas == 1){
+        println(" bye bye !!")
+    }else {
+        println("Noob demais, volta para o Pou ")
+    }
+    */
+    
+        
+        
+    // Exercicio 1 - faça um programa que verifique dois numeros e indique 
+    // no console, o maior entre eles 
+    // 
+    // Exercicio 2 - faça um programa que indique o no console, se um
+    // numero e verificado e positivo ou negativo
+    // 
+    // .nos exercicios, devem ser utilizadas pelo menos 1 variavel 
+    // .os exercicios devem ser feitos com if..else 
+    // .divirtam- se 
+    // 
+    
+    var sorvete = 3
+    var chocolate = 7
+    
+    if (sorvete > chocolate) {
+        println(" o numero $sorvete e maior que $chocolate")
+  
+    }else{
+        println(" o numero $chocolate e maior de $sorvete 
+    }
+    
+    
+    
+    
+    
+    
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+}
 //Tipos de variaveis
 //
 //boolean - verdadeiro ou falso
