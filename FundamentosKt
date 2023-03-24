@@ -344,16 +344,92 @@ for(churrasco in 0..10){
 //o laço for 
 
 
-
-
-
-
-
-
-
-
-
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+    //exercicio - Exerbir uma tabuada ate pelo menos ate o  decimo multiplo de um 
+    //numero escolhido (que nao seja a do 0, do 1,e do 2 ), utilizando
+    //o laço for 
+    //
+    /*
+    for(i in 1..10){
+        println(i*50)
+    }
+    */
+   /*
+    for(i in 1..10){
+        println(i*6)
+    }
+     */
+    
+    aula do dia 24 ( REPEAT )
+    
+    
+    // repeat -> repita
+    // 
+    // repetir uma determinada sequencia de açoes, em determinada quantidade de vezes
+    // 
+    // repeat(vezes){
+    // açao
+    // }
+    /*
+    repeat(7){
+        println("Ankara messi ")
+    }
+    */
+    // Exercicio =  Exiba os numeros de 20 a 0 (nesta ordem) usando o laço repeat 
+    // boa sorte ♥
+    /*
+    repeat(2){
+        println("20")
+        println("19")
+        println("18")
+        println("17")
+        println("16")
+        println("15")
+        println("14")
+        println("13")
+        println("12")
+        println("11")
+        println("10")
+        println("9")
+        println("8")
+        println("7")
+        println("6")
+        println("5")
+        println("4")
+        println("3")
+        println("2")
+        println("1")
+        println("0")
+        println("--------------repetindo--------------")
+        */
+    
+    
+    /*
+     
+     Resposta correta dos  exercicios !
+     
+    var gustavolima = 20 
+    repeat(21){
+        println(gustavolima)
+        gustavolima--
+    } */
+    
+    
+    
 }
+
+
+
+
+
+
+
+
+
     
     
     
